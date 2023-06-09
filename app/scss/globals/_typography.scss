@@ -1,0 +1,31 @@
+@use "../utilities/" as *;
+
+:root {
+  --fs-18: rem(18px);
+  --fs-88: rem(88px);
+  --fs-72: rem(72px);
+  --fs-40: rem(40px);
+  --fs-48: rem(48px);
+  --fs-36: rem(36px);
+  --fs-32: rem(32px);
+  --fs-24: rem(24px);
+  --fs-20: rem(20px);
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+  line-height: 1.1;
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+}
+
+a,
+a:visited,
+a:active {
+  text-decoration: none;
+}

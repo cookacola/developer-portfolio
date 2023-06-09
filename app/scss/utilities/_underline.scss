@@ -1,0 +1,10 @@
+.underline__header {
+  border-bottom: 0.15em solid var(--accent);
+  display: inline-block;
+}
+
+.underline__link {
+  border-bottom: 0.1em solid var(--accent);
+  display: inline-block;
+  line-height: 2;
+}

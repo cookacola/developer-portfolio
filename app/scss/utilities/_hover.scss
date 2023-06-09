@@ -1,0 +1,12 @@
+a:hover {
+  color: var(--accent);
+  transition: color var(--transition);
+}
+
+.header__social > svg > path {
+  transition: fill var(--transition);
+}
+
+.header__social:hover > svg > path {
+  fill: var(--accent);
+}

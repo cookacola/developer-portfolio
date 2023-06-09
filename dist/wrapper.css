@@ -1,0 +1,5 @@
+.wrapper {
+  width: calc(100% - 2rem);
+  max-width: var(--container);
+  margin-inline: auto;
+}/*# sourceMappingURL=wrapper.css.map */

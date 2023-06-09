@@ -1,0 +1,20 @@
+a.underline,
+button {
+  display: inline-block;
+  padding-bottom: 0.625rem;
+  font-size: 1rem;
+  line-height: 1.625;
+  letter-spacing: 0.143em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text1);
+  text-decoration: none;
+  background-image: linear-gradient(
+    to right,
+    var(--accent) 75%,
+    var(--accent) 75%
+  );
+  background-position: 0 2.1em;
+  background-repeat: repeat-x;
+  background-size: 8px 2px;
+}
